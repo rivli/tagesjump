@@ -35,7 +35,7 @@ export const loadMaterials = () => async (dispatch) => {
 
     dispatch({
       type: LOAD_MATERIALS,
-      payload: dataObj,
+      payload: data,
     });
   } catch (error) {
     console.log(error);

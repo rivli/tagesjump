@@ -46,7 +46,7 @@ const Product = ({
         <div className='product__actions'>
           {cart[product.id] ? (
             <img
-              src='/images/icons/inCart.svg'
+              src='images/icons/inCart.svg'
               className='product__addToCart'
               alt='Убрать из корзины'
               title='Убрать из корзины'
@@ -54,7 +54,7 @@ const Product = ({
             />
           ) : (
             <img
-              src='/images/icons/cart.svg'
+              src='images/icons/cart.svg'
               className='product__addToCart'
               alt='Добавить в корзину'
               title='Добавить в корзину'
@@ -64,14 +64,14 @@ const Product = ({
 
           {favorites[product.id] ? (
             <img
-              src='/images/icons/redFavorite.svg'
+              src='images/icons/redFavorite.svg'
               alt='Убрать из избранного'
               title='Убрать из избранного'
               onClick={() => removeFromFavorites(product.id)}
             />
           ) : (
             <img
-              src='/images/icons/favorite.svg'
+              src='images/icons/favorite.svg'
               alt='Добавить в избранное'
               title='Добавить в избранное'
               onClick={() => addToFavorites(product)}
