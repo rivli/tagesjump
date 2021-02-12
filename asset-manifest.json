@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/tagesjump/static/css/main.304e2d39.chunk.css",
-    "main.js": "/tagesjump/static/js/main.a8db5d7b.chunk.js",
-    "main.js.map": "/tagesjump/static/js/main.a8db5d7b.chunk.js.map",
+    "main.js": "/tagesjump/static/js/main.5ede01bd.chunk.js",
+    "main.js.map": "/tagesjump/static/js/main.5ede01bd.chunk.js.map",
     "runtime-main.js": "/tagesjump/static/js/runtime-main.d48dd2f8.js",
     "runtime-main.js.map": "/tagesjump/static/js/runtime-main.d48dd2f8.js.map",
     "static/js/2.84f98dbd.chunk.js": "/tagesjump/static/js/2.84f98dbd.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.d48dd2f8.js",
     "static/js/2.84f98dbd.chunk.js",
     "static/css/main.304e2d39.chunk.css",
-    "static/js/main.a8db5d7b.chunk.js"
+    "static/js/main.5ede01bd.chunk.js"
   ]
 }
