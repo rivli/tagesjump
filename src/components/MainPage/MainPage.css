@@ -1,0 +1,13 @@
+.selector {
+  display: inline-block;
+  margin-right: 24px;
+  margin-top: 15px;
+}
+
+.selector__title {
+  padding: 0 16px 6px;
+  font-size: 12px;
+  line-height: 150%;
+  color: #4f4f4f;
+  letter-spacing: -0.03em;
+}
